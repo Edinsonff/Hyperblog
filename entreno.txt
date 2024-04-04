@@ -4,5 +4,10 @@ aprendiendo cada comando hecho hasta ahora
 
 QUIERO VER SI VUELVO A ESTE COMMIT
 
-master 1
+
+
+
+
+
+Smaster 1
 master2

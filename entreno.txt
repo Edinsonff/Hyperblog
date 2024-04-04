@@ -4,8 +4,4 @@ aprendiendo cada comando hecho hasta ahora
 
 QUIERO VER SI VUELVO A ESTE COMMIT
 
-
-experimento2
-
-experimento 1
 master 1
